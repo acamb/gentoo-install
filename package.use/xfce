@@ -1,0 +1,22 @@
+app-text/poppler -qt5
+ xfce-base/xfwm4 xcomposite
+# required by app-containers/incus-6.0.0-r1::gentoo
+# required by app-containers/incus (argument)
+>=dev-libs/raft-0.22.1 lz4
+# required by app-containers/incus-6.0.0-r1::gentoo
+# required by app-containers/incus (argument)
+>=dev-util/xdelta-3.0.11-r1 lzma
+# required by app-containers/incus-6.0.0-r1::gentoo
+# required by app-containers/incus (argument)
+>=sys-fs/squashfs-tools-4.6.1 lzma
+# required by app-containers/lxc-6.0.0-r2::gentoo[tools,caps]
+# required by app-containers/incus-6.0.0-r1::gentoo
+# required by app-containers/incus (argument)
+>=sys-libs/libcap-2.69-r1 static-libs
+# required by app-crypt/swtpm-0.8.1-r2::gentoo
+# required by app-emulation/libvirt-10.3.0-r1::gentoo[qemu]
+# required by dev-python/libvirt-python-10.3.0::gentoo
+>=net-libs/gnutls-3.8.0 tools pkcs11
+# required by app-emulation/virt-manager-4.1.0-r1::gentoo[gui,-test]
+# required by virt-manager (argument)
+>=net-misc/spice-gtk-0.42-r4 usbredir
