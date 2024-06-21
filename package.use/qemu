@@ -1,1 +1,1 @@
-app-emulation/qemu gnutls gtk lzo jpeg opengl pulseaudio udev usb vnc zstd spice
+app-emulation/qemu gnutls gtk lzo jpeg opengl pulseaudio udev usb vnc zstd spice virgl
