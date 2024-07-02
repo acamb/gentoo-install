@@ -1,1 +1,2 @@
 www-client/firefox screencast X dbus jumbo-build lto pulseaudio hwaccel
+www-client/firefox:rapid ~amd64

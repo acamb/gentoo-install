@@ -1,3 +1,4 @@
+app-admin/ansible
 app-admin/awscli
 app-admin/keepass
 app-admin/sudo
@@ -13,12 +14,14 @@ app-editors/vscode
 app-emulation/qemu
 app-emulation/virt-manager
 app-emulation/virt-viewer
+app-eselect/eselect-repository
 app-misc/screen
 app-portage/gentoolkit
 app-shells/bash-completion
 app-shells/zsh
 dev-db/postgresql
 dev-vcs/git
+games-util/steam-launcher
 gnome-base/gdm
 gnome-extra/gnome-calculator
 media-fonts/corefonts
@@ -50,6 +53,7 @@ sys-process/btop
 sys-process/cronie
 www-apps/chromedriver-bin
 www-client/firefox
+www-client/firefox-bin:rapid
 www-client/google-chrome
 x11-base/xorg-server
 x11-terms/gnome-terminal

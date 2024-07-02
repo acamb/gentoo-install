@@ -1,0 +1,5 @@
+# required by net-misc/anydesk-6.3.2::gentoo
+# required by anydesk (argument)
+=x11-libs/gtkglext-1.2.0-r6 ~amd64
+# required by anydesk (argument)
+=net-misc/anydesk-6.3.2 ~amd64
